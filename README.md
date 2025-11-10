@@ -58,6 +58,9 @@ A complete serverless image thumbnail generation pipeline using AWS services. Th
 
 ## 🏗️ Architecture
 
+<img width="754" height="693" alt="image" src="https://github.com/user-attachments/assets/dd162c41-a584-4188-a590-da653adfa72f" />
+
+
 ```
 
 <img width="754" height="693" alt="image" src="https://github.com/user-attachments/assets/3fa2c963-6dc9-48d9-938f-91acef2bfbf9" />
