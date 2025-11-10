@@ -81,6 +81,9 @@ Terraform configuration including:
 
 ## System Architecture
 
+<img width="754" height="693" alt="image" src="https://github.com/user-attachments/assets/575e1baf-a45b-4323-9b7f-a5afacece109" />
+
+
 ```
 User Upload
     ↓
